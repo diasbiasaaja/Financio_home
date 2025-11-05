@@ -17,7 +17,7 @@ Aplikasi ini dirancang untuk membantu pengguna mengelola keuangan pribadi dengan
 
 ## 🖼️ Preview
 ### Splash Screen  
-![Splash Screen](assets/images/splash.png)
+![Splash Screen](assets/image/splash.png)
 
 ### Home Page  
-![Home Page](assets/images/home.png)
+![Home Page](assets/image/home.png)
